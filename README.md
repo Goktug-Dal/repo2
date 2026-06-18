@@ -38,8 +38,6 @@ This project implements a Customer Accounts microservice with full DevOps practi
 ├── user-story.md # User stories
 └── README.md
 
-text
-
 ## 🔄 API Endpoints
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -55,3 +53,9 @@ text
 - Security Headers: ✅ Configured
 - Docker: ✅ Built
 - Kubernetes: ✅ Deployed
+
+# Customer Accounts Microservice
+
+[![CI Build](https://github.com/Goktug-Dal/repo2/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/Goktug-Dal/repo2/actions/workflows/ci-build.yaml)
+
+## Project Name: DevOps Capstone Project - Customer Accounts Service
